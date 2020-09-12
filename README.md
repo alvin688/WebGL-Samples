@@ -1,3 +1,7 @@
+# I am not the creator or a contributor to this repository
+The origin of this repository:
+https://github.com/blackberry/WebGL-Samples.git
+
 # Run Demos on your (Modern) Browser
 
 To play TunnelTilt in a WebGL compatible browser, click [here](http://blackberry.github.com/WebGL-Samples/tunneltilt/)
